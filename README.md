@@ -17,7 +17,7 @@ Mathematic can do many things, but we will only be using it to make plots of the
 Mathematica is free for students and faculty through the OU itStore similar to Matlab.
 Follow this process to download Mathematica on your computer
 1. Create an account (New users only):  
-   1. Go to [user.wolfram.com](user.wolfram.com) and click ```Create Account````
+   1. Go to [user.wolfram.com](user.wolfram.com) and click ```Create Account```
    2. Fill out form using a @ou.edu email, and click ```Create Wolfram ID``` 
    3. Check your email and click the link to validate your Wolfram ID 
 2. Request the download and key:  
