@@ -17,13 +17,13 @@ Mathematic can do many things, but we will only be using it to make plots of the
 Mathematica is free for students and faculty through the OU itStore similar to Matlab.
 Follow this process to download Mathematica on your computer
 1. Create an account (New users only):  
-   1. Go to user.wolfram.com and click "Create Account" 
-   2. Fill out form using a @ou.edu email, and click "Create Wolfram ID" 
+   1. Go to [user.wolfram.com](user.wolfram.com) and click ```Create Account````
+   2. Fill out form using a @ou.edu email, and click ```Create Wolfram ID``` 
    3. Check your email and click the link to validate your Wolfram ID 
 2. Request the download and key:  
-   1. Fill out this form to request an Activation Key 
-   2. Click the "Product Summary page" link to access your license 
-   3. Click "Get Downloads" and select "Download" next to your platform 
+   1. Fill out [this](https://user.wolfram.com/portal/requestAK/07044bb7bb9e0707059e2a9c79705f7095b99e40) form to request an Activation Key 
+   2. Click the ```Product Summary page``` link to access your license 
+   3. Click ```Get Downloads``` and select ```Download``` next to your platform 
    4. Run the installer on your machine (keep note of where you install it to), and enter Activation Key at prompt 
 From here, to use Mathematica normally, just use the desktop links from the installer. The process to call it from Java code is a bit more involved.
 
